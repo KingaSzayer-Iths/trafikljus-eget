@@ -1,0 +1,66 @@
+.red1 {
+    background-color: pink;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
+
+.red1inner { 
+    height: 50%;
+    width: 100%;
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
+
+.green {
+    background-color: #00ff00;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
+
+.red2 {
+    background-color: pink;
+    height: 50px;
+}
+
+.yellow2 {
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
+
+.green2 {
+    background-color: #00ff00;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
+
+.red3 {
+    background-color: #ff0000;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
+
+.yellow3 {
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
+
+.green3 {
+    background-color: #00ff00;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
